@@ -61,7 +61,7 @@ export const ContactSection = () => {
                 </div>
                 <div className="text-left">
                   <h3 className="font-semibold heading-glow text-lg">Location</h3>
-                  <p className="text-muted-foreground text-md">Dallas, TX, USA</p>
+                  <p className="text-muted-foreground text-md">TX, USA</p>
                 </div>
               </div>
             </div>
